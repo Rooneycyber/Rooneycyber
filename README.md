@@ -1,17 +1,20 @@
 # Hello, I'm Roonish
 <a href="www.linkedin.com/in/roonish-niroula-34410b297"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+My name is Roonish Niroula, and I'm currently pursuing my academic journey at the University of Connecticut, where I'm majoring in Analytics and Information management/systems with a concentration in Cybersecurity.
+
+I'm actively seeking an internship opportunity that aligns with my academic background and interests in AIM, MIS, IT roles, and Cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+As an AIM (Analytics Information Management) major, I have discovered a profound interest in cybersecurity. I am eager to deepen my understanding of this field, expand my knowledge base, and actively pursue opportunities for growth and development in cybersecurity.
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
